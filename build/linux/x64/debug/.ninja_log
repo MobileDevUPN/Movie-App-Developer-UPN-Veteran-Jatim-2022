@@ -1,0 +1,56 @@
+# ninja log v5
+1	70053	0	/home/nadhifm/Flutter Projects/movie_app/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	ca97839647defe95
+1	70053	0	/home/nadhifm/Flutter Projects/movie_app/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	ca97839647defe95
+1	70053	0	/home/nadhifm/Flutter Projects/movie_app/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	ca97839647defe95
+1	70053	0	/home/nadhifm/Flutter Projects/movie_app/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	ca97839647defe95
+1	70053	0	/home/nadhifm/Flutter Projects/movie_app/build/linux/x64/debug/flutter/_phony_	ca97839647defe95
+1	70053	0	/home/nadhifm/Flutter Projects/movie_app/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	ca97839647defe95
+1	70053	0	/home/nadhifm/Flutter Projects/movie_app/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	ca97839647defe95
+1	70053	0	/home/nadhifm/Flutter Projects/movie_app/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	ca97839647defe95
+1	70053	0	/home/nadhifm/Flutter Projects/movie_app/linux/flutter/ephemeral/flutter_linux/fl_engine.h	ca97839647defe95
+1	70053	0	/home/nadhifm/Flutter Projects/movie_app/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	ca97839647defe95
+1	70053	0	/home/nadhifm/Flutter Projects/movie_app/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	ca97839647defe95
+1	70053	0	/home/nadhifm/Flutter Projects/movie_app/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	ca97839647defe95
+1	70053	0	/home/nadhifm/Flutter Projects/movie_app/linux/flutter/ephemeral/flutter_linux/fl_value.h	ca97839647defe95
+1	70053	0	/home/nadhifm/Flutter Projects/movie_app/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	ca97839647defe95
+1	70053	0	/home/nadhifm/Flutter Projects/movie_app/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	ca97839647defe95
+72608	72662	0	CMakeFiles/install.util	16262122c11a759c
+1	70053	0	/home/nadhifm/Flutter Projects/movie_app/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	ca97839647defe95
+71919	72608	1654083895151936890	intermediates_do_not_run/movie_app	257986563a43905
+70054	71758	1654083894293944856	CMakeFiles/movie_app.dir/main.cc.o	b9293fb99a4cad9
+1	70053	0	/home/nadhifm/Flutter Projects/movie_app/linux/flutter/ephemeral/flutter_linux/fl_view.h	ca97839647defe95
+1	70053	0	/home/nadhifm/Flutter Projects/movie_app/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	ca97839647defe95
+1	70053	0	/home/nadhifm/Flutter Projects/movie_app/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	ca97839647defe95
+1	70053	0	/home/nadhifm/Flutter Projects/movie_app/linux/flutter/ephemeral/libflutter_linux_gtk.so	ca97839647defe95
+70059	71918	1654083894460943305	CMakeFiles/movie_app.dir/my_application.cc.o	adcd6041c5d55880
+70061	71750	1654083894293944856	CMakeFiles/movie_app.dir/flutter/generated_plugin_registrant.cc.o	541eb384dcb3e5c6
+1	70053	0	/home/nadhifm/Flutter Projects/movie_app/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	ca97839647defe95
+1	70053	0	flutter/_phony_	ca97839647defe95
+1	70053	0	/home/nadhifm/Flutter Projects/movie_app/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	ca97839647defe95
+53	15800	0	/home/nadhifm/Flutter Projects/movie_app/linux/flutter/ephemeral/libflutter_linux_gtk.so	ca97839647defe95
+53	15800	0	/home/nadhifm/Flutter Projects/movie_app/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	ca97839647defe95
+53	15800	0	/home/nadhifm/Flutter Projects/movie_app/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	ca97839647defe95
+53	15800	0	/home/nadhifm/Flutter Projects/movie_app/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	ca97839647defe95
+53	15800	0	/home/nadhifm/Flutter Projects/movie_app/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	ca97839647defe95
+53	15800	0	/home/nadhifm/Flutter Projects/movie_app/linux/flutter/ephemeral/flutter_linux/fl_engine.h	ca97839647defe95
+53	15800	0	/home/nadhifm/Flutter Projects/movie_app/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	ca97839647defe95
+53	15800	0	/home/nadhifm/Flutter Projects/movie_app/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	ca97839647defe95
+53	15800	0	/home/nadhifm/Flutter Projects/movie_app/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	ca97839647defe95
+53	15800	0	/home/nadhifm/Flutter Projects/movie_app/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	ca97839647defe95
+53	15800	0	/home/nadhifm/Flutter Projects/movie_app/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	ca97839647defe95
+53	15800	0	/home/nadhifm/Flutter Projects/movie_app/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	ca97839647defe95
+53	15800	0	/home/nadhifm/Flutter Projects/movie_app/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	ca97839647defe95
+53	15800	0	/home/nadhifm/Flutter Projects/movie_app/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	ca97839647defe95
+53	15800	0	/home/nadhifm/Flutter Projects/movie_app/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	ca97839647defe95
+53	15800	0	/home/nadhifm/Flutter Projects/movie_app/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	ca97839647defe95
+53	15800	0	/home/nadhifm/Flutter Projects/movie_app/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	ca97839647defe95
+53	15800	0	/home/nadhifm/Flutter Projects/movie_app/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	ca97839647defe95
+53	15800	0	/home/nadhifm/Flutter Projects/movie_app/linux/flutter/ephemeral/flutter_linux/fl_value.h	ca97839647defe95
+53	15800	0	/home/nadhifm/Flutter Projects/movie_app/linux/flutter/ephemeral/flutter_linux/fl_view.h	ca97839647defe95
+53	15800	0	/home/nadhifm/Flutter Projects/movie_app/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	ca97839647defe95
+53	15800	0	flutter/_phony_	ca97839647defe95
+53	15800	0	/home/nadhifm/Flutter Projects/movie_app/build/linux/x64/debug/flutter/_phony_	ca97839647defe95
+15801	16714	1654211901757845685	CMakeFiles/movie_app.dir/flutter/generated_plugin_registrant.cc.o	541eb384dcb3e5c6
+15800	16796	1654211901840843103	CMakeFiles/movie_app.dir/my_application.cc.o	adcd6041c5d55880
+16797	17005	1654211902054836445	intermediates_do_not_run/movie_app	ec3b16358215fba3
+17005	17029	0	CMakeFiles/install.util	16262122c11a759c
